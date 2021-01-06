@@ -1,2 +1,5 @@
 node_modules
 .gradle
+dist
+hs_err_pid2394.log
+replay_pid2394.log
